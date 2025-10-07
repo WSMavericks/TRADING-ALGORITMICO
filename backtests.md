@@ -63,7 +63,7 @@ Usamos:
 
 A continuación puedes ver ejemplos de reportes HTML generados directamente desde MetaTrader 5 y herramientas adicionales:
 
-- [📈 BOT 1](./backtests/mr_bot_report.html)  
+- [📈 BOT 1](./BACKTEST NOTICIAS FILTRADAS.html)  
 
 > Los reportes incluyen estadísticas detalladas: ratios de acierto, drawdown, profit factor, Sharpe, y curvas de equity.
 
