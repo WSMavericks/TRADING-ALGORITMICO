@@ -38,10 +38,6 @@ Cuando un cliente solicita la **automatización y validación de su estrategia**
 6. **Entrega de Reportes**
    - Archivos HTML interactivos y PDFs listos para presentación o análisis.
 
-<p align="center">
-  <img src="assets/sample_equity_curve.png" alt="Ejemplo de Equity Curve" width="600"/>
-</p>
-
 ---
 
 ## Optimización: Cómo la Realizamos
@@ -52,10 +48,6 @@ Usamos:
 - **Grid search** y **Monte Carlo** para parámetros clave.  
 - División en periodos de entrenamiento y validación.  
 - Visualización de superficies de resultados para evitar sobreajuste.
-
-<p align="center">
-  <img src="assets/param_optimization_surface.png" alt="Superficie de Optimización" width="600"/>
-</p>
 
 ---
 
