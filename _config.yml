@@ -1,5 +1,5 @@
 title: ""
-theme: null
+theme: jekyll-theme-primer
 show_downloads: false
 github:
   is_project_page: false
