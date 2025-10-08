@@ -1,6 +1,6 @@
 <p align="center">
   <img src="logo.png" alt="Wall Street Mavericks" width="220"/>
-</p>(./README.md)  
+</p> 
 
 <h1 align="center">BACKTESTING Y OPTIMIZACIÓN</h1>
 <h3 align="center">Validación Cuantitativa · Estrategias Personalizadas · Resultados Reales</h3>
